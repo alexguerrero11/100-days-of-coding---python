@@ -1,6 +1,10 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp
 [Udemy course created by Dr.Angela Yu](https://www.udemy.com/course/100-days-of-code/)
 +  DAY 1 - Working with Variables in Python to Manage Data
++  Day 2 - Understanding Data Types and How to Manipulate Strings
++  Day 3 - Control Flow and Logical Operators
++  Day 4 - Randomisation and Python Lists
++  Day 5 - Python Loops
 
 
 
