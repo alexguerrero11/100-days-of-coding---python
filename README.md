@@ -11,10 +11,14 @@
 +  Day 5 - Python Loops
     + Project: Password Generator (Easy/Hard)
 +  Day 6 - Python Functions & Karel
-+  Day 7 - Hangman
++  Day 7 - Project Walk-thru
     + Project: Hangman
-+  Day 8 - Function Parameters & Caesar Cipher
-    + Project: 
++  Day 8 - Function Parameters
+    + Project: Caesar Cipher
++  Day 9 - Dictionaries and Nesting
+    + Project: Blind Auction
++  Day 10 - Functions with Outputs
+    + Project: Calculator
 
 
 # Tools
