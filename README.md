@@ -4,9 +4,10 @@
     + Project: Band Name Generator
 +  [Day 2](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY02) - Understanding Data Types and How to Manipulate Strings
     + Project: Tip Calculator
-+  Day 3 - Control Flow and Logical Operators
-    + Treasure Island
++  [Day 3](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY03) - Control Flow and Logical Operators
+    + Project: Treasure Island
 +  Day 4 - Randomisation and Python Lists
+    + Project: Rock, Paper, Scissor Game
 +  Day 5 - Python Loops
 
 
