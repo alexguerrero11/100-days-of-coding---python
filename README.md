@@ -1,9 +1,11 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp
 [Udemy course created by Dr.Angela Yu](https://www.udemy.com/course/100-days-of-code/)
 +  [Day 1](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY01) - Working with Variables in Python to Manage Data
-    + Band Name Generator
+    + Project: Band Name Generator
 +  [Day 2](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY02) - Understanding Data Types and How to Manipulate Strings
+    + Project: Tip Calculator
 +  Day 3 - Control Flow and Logical Operators
+    + Treasure Island
 +  Day 4 - Randomisation and Python Lists
 +  Day 5 - Python Loops
 
