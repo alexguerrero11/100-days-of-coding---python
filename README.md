@@ -9,7 +9,12 @@
 +  Day 4 - Randomisation and Python Lists
     + Project: Rock, Paper, Scissor Game
 +  Day 5 - Python Loops
-
+    + Project: Password Generator (Easy/Hard)
++  Day 6 - Python Functions & Karel
++  Day 7 - Hangman
+    + Project: Hangman
++  Day 8 - Function Parameters & Caesar Cipher
+    + Project: 
 
 
 # Tools
