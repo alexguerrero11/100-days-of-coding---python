@@ -6,18 +6,18 @@
     + Project: Tip Calculator
 +  [Day 3](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY03) - Control Flow and Logical Operators
     + Project: Treasure Island
-+  Day 4 - Randomisation and Python Lists
++  [Day 4](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY04) - Randomisation and Python Lists
     + Project: Rock, Paper, Scissor Game
-+  Day 5 - Python Loops
++  [Day 5](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY05) - Python Loops
     + Project: Password Generator (Easy/Hard)
-+  Day 6 - Python Functions & Karel
-+  Day 7 - Project Walk-thru
++  [Day 6](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY06) - Python Functions & Karel
++  [Day 7](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY07) - Project Walk-thru
     + Project: Hangman
-+  Day 8 - Function Parameters
++  [Day 8](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY08) - Function Parameters
     + Project: Caesar Cipher
-+  Day 9 - Dictionaries and Nesting
++  [Day 9](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY09) - Dictionaries and Nesting
     + Project: Blind Auction
-+  Day 10 - Functions with Outputs
++  [Day 10](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY010) - Functions with Outputs
     + Project: Calculator
 
 
