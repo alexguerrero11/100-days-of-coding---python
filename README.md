@@ -19,7 +19,10 @@
     + Project: Blind Auction
 +  [Day 10](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY010) - Functions with Outputs
     + Project: Calculator
-
++  [Day 11](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY011) - The Blackjack Capstone Project
+    + Project: Blackjack Game
++  [Day 12](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY012) - Scope & Number Guessing Game
+    + Project: The Number Guessing Game
 
 # Tools
 + Python 3 - the latest version of Python
