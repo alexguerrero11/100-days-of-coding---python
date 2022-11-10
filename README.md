@@ -17,14 +17,15 @@
     + Project: Caesar Cipher
 +  [Day 9](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY09) - Dictionaries and Nesting
     + Project: Blind Auction
-+  [Day 10](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY010) - Functions with Outputs
++  [Day 10](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY10) - Functions with Outputs
     + Project: Calculator
-+  [Day 11](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY011) - The Blackjack Capstone Project
++  [Day 11](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY11) - The Blackjack Capstone Project
     + Project: Blackjack Game
-+  [Day 12](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY012) - Scope & Number Guessing Game
++  [Day 12](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY12) - Scope & Number Guessing Game
     + Project: The Number Guessing Game
-+ [Day 13](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY013) - Debugging: How to Find and Fix Errors in your Code
-
++  [Day 13](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY13) - Debugging: How to Find and Fix Errors in your Code
++  [Day 14](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY14) - Higher Lower Game Project
+    + Project: Higher Lower Game
 
 # Tools
 + Python 3 - the latest version of Python
