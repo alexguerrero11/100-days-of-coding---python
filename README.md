@@ -23,6 +23,8 @@
     + Project: Blackjack Game
 +  [Day 12](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY012) - Scope & Number Guessing Game
     + Project: The Number Guessing Game
++ [Day 13](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY013) - Debugging: How to Find and Fix Errors in your Code
+
 
 # Tools
 + Python 3 - the latest version of Python
