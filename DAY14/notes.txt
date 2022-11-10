@@ -1,0 +1,19 @@
+1)print logo
+2)select Person A
+    - a random number generator from 1 to length of data
+    - print out name, description, and country
+    - follower count is used to compare but not shown
+3)print vs
+4)select Person B
+    - a random number generator from 1 to length of data
+    - print out name, description, and country
+    - follower count is used to compare but not shown
+5)prints out questions about who has more followers
+6)wait for user's input
+    - if wrong, end game. print final score
+    - if correct, game continues as following
+
+7) if game continues
+- Person B becomes A
+- new person B is selected
+- 
