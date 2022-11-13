@@ -26,7 +26,7 @@
 +  [Day 13](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY13) - Debugging: How to Find and Fix Errors in your Code
 +  [Day 14](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY14) - Higher Lower Game Project
     + Project: Higher Lower Game
-+  Day 15 - Local Development Environment Setup & the Coffee Machine
++  [Day 15](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY15) - Local Development Environment Setup & the Coffee Machine
     + Project: Coffee Machine
 
 Upcoming
