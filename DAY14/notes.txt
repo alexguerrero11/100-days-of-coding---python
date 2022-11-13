@@ -16,4 +16,4 @@
 7) if game continues
 - Person B becomes A
 - new person B is selected
-- 
+- game repeats until player gets wrong answer
