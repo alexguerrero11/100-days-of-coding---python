@@ -28,9 +28,9 @@
     + Project: Higher Lower Game
 +  [Day 15](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY15) - Local Development Environment Setup & the Coffee Machine
     + Project: Coffee Machine
++  Day 16 - Object Oriented Programming (OOP)
 
 Upcoming
-+  Day 16 - Object Oriented Programming (OOP)
 +  Day 17 - The Quiz Project & The Benefits of OOP
 +  Day 18 - Turtle & the Graphical User Interface (GUI)
 +  Day 19 - Instances, State and Higher Order Functions
