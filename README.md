@@ -33,13 +33,16 @@
 +  [Day 17](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY17) - The Quiz Project & The Benefits of OOP
 +  [Day 18](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY18) - Turtle & the Graphical User Interface (GUI)
     + Project: The Hirst Painting
-+  [Day 19](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY19 - Instances, State and Higher Order Functions
++  [Day 19](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY19) - Instances, State and Higher Order Functions
     + Project: Turtle Race
-+  Day 20 - Build the Snake Game Part 1: Animation & Coordinates
++  [Day 20](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY20) - Build the Snake Game Part 1: Animation & Coordinates
+    + Project: Snake Game
++  [Day 21](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY21) - Build the Snake Game Part 2: Inheritance & List Slicing
+    + Project: Snake Game
++  [Day 22](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY22) - Build Pong: The Famous Arcade Game
+
 
 Upcoming
-+  Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
-+  Day 22 - Build Pong: The Famous Arcade Game
 +  Day 23 - The Turtle Crossing Capstone Project
 +  Day 24 - Files, Directories and Paths
 +  Day 25 - Working with CSV Data and the Pandas Library
