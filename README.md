@@ -40,11 +40,12 @@
 +  [Day 21](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY21) - Build the Snake Game Part 2: Inheritance & List Slicing
     + Project: Snake Game
 +  [Day 22](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY22) - Build Pong: The Famous Arcade Game
-
+    + Project: Ping Pong Game
++ [Day 23](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY23) - The Turtle Crossing Capstone Project
+    + Project: Turtle Crossing Game
++  Day 24 - Files, Directories and Paths
 
 Upcoming
-+  Day 23 - The Turtle Crossing Capstone Project
-+  Day 24 - Files, Directories and Paths
 +  Day 25 - Working with CSV Data and the Pandas Library
 +  Day 26 - List Comprehension and the Nato Alphabet
 +  Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
