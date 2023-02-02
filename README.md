@@ -43,10 +43,11 @@
     + Project: Ping Pong Game
 + [Day 23](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY23) - The Turtle Crossing Capstone Project
     + Project: Turtle Crossing Game
-+  Day 24 - Files, Directories and Paths
++  [Day 24](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY24) - Files, Directories and Paths
+    + Project: Mail Merge Project
++  Day 25 - Working with CSV Data and the Pandas Library
 
 Upcoming
-+  Day 25 - Working with CSV Data and the Pandas Library
 +  Day 26 - List Comprehension and the Nato Alphabet
 +  Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
 +  Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
