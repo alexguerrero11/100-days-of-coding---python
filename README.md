@@ -45,16 +45,16 @@
     + Project: Turtle Crossing Game
 +  [Day 24](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY24) - Files, Directories and Paths
     + Project: Mail Merge Project
-+  Day 25 - Working with CSV Data and the Pandas Library
++  [Day 25](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY25) - Working with CSV Data and the Pandas Library
+    + Project: U.S. State Game
++  Day 26 - List Comprehension and the Nato Alphabet
+
 
 Upcoming
-+  Day 26 - List Comprehension and the Nato Alphabet
 +  Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
 +  Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
 +  Day 29 - Building a Password Manager GUI App with Tkinter
 +  Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
-+  Day 31 - Flash Card App Capstone Project
-
 
 # Tools
 + Python 3 - the latest version of Python
