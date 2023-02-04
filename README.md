@@ -49,12 +49,16 @@
     + Project: [U.S. State Game](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY25/PROJECT-US-state-game)
 + [Day 26](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY26) - List Comprehension and the Nato Alphabet
    + Project: [Nato Alphabet](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY26/PROJECT-NATO-alphabet)
-+  Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
++  [Day 27](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY27) - Tkinter, *args, **kwargs and Creating GUI Programs
+   + Project: [Mile to Kilometer Converter](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY27/PROJECT-mile-to-km-converter)
++  [Day 28](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY28) - Tkinter, Dynamic Typing and the Pomodoro GUI Application
+   + Project: [Pomodoro GUI Application](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY28/PROJECT-pomodoro-gui-application)
++  [Day 29](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY29) - Building a Password Manager GUI App with Tkinter
+   + Project: [Password Manager GUI](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY29/PROJECT-password-manager)
++  Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
+
 
 Upcoming
-+  Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
-+  Day 29 - Building a Password Manager GUI App with Tkinter
-+  Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
 
 # Tools
 + Python 3 - the latest version of Python

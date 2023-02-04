@@ -45,6 +45,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DAY26/PROJECT-NATO-alphabet" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DAY28/PROJECT-pomodoro-gui-application" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main file" type="PythonConfigurationType" factoryName="Python">
@@ -55,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/my_python_project/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAY26/PROJECT-NATO-alphabet" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAY29/PROJECT-password-manager" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAY26/PROJECT-NATO-alphabet/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAY29/PROJECT-password-manager/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
