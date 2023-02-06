@@ -55,10 +55,21 @@
    + Project: [Pomodoro GUI Application](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY28/PROJECT-pomodoro-gui-application)
 +  [Day 29](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY29) - Building a Password Manager GUI App with Tkinter
    + Project: [Password Manager GUI](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY29/PROJECT-password-manager)
-+  Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
++  [Day 30](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY30) - Errors, Exceptions and JSON Data: Improving the Password Manager
++  [Day 31](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY31) - Flash Card App Capstone Project
+   + Project: [Flash Card App](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY31/PROJECT-flash-card-app)
++  [Day 32](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY32) - Send Email (smtplib) & Manage Dates (datetime)
 
 
 Upcoming
++  Day 33 - API Endpoints & API Parameters - ISS Overhead Notifier
++  Day 34 - API Practice - Creating a GUI Quiz App
++  Day 35 - Keys, Authentication & Environment Variables: Send SMS
++  Day 36 - Stock Trading News Alert Project
++  Day 37 - Habit Tracking Project: API Post Requests & Headers
++  Day 38 - Workout Tracking Using Google Sheets
++  Day 39 - Capstone Part 1: Flight Deal Finder
++  Day 40 - Capstone Part 2: Flight Club
 
 # Tools
 + Python 3 - the latest version of Python
