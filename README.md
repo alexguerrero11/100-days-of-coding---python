@@ -64,7 +64,6 @@
 
 
 Upcoming
-+  Day 33 - API Endpoints & API Parameters - ISS Overhead Notifier
 +  Day 34 - API Practice - Creating a GUI Quiz App
 +  Day 35 - Keys, Authentication & Environment Variables: Send SMS
 +  Day 36 - Stock Trading News Alert Project
