@@ -59,6 +59,8 @@
 +  [Day 31](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY31) - Flash Card App Capstone Project
    + Project: [Flash Card App](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY31/PROJECT-flash-card-app)
 +  [Day 32](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY32) - Send Email (smtplib) & Manage Dates (datetime)
+    + Project: [Birthday Wisher](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY32/PROJECT-birthday-wisher)
+    
 +  [Day 33]() - API Endpoints & API Parameters
    + Project: ISS Overhead Notifier
 
