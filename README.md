@@ -60,14 +60,15 @@
    + Project: [Flash Card App](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY31/PROJECT-flash-card-app)
 +  [Day 32](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY32) - Send Email (smtplib) & Manage Dates (datetime)
     + Project: [Birthday Wisher](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY32/PROJECT-birthday-wisher)
-    
-+  [Day 33]() - API Endpoints & API Parameters
-   + Project: ISS Overhead Notifier
++  [Day 33](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY33) - API Endpoints & API Parameters
+   + Project: [ISS Overhead Notifier](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY33/iss-overhead-notifier)
++  [Day 34](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY34) - API Practice - Creating a GUI Quiz App
+    + Project: [Quiz App](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY34/PROJECT-quiz-app)
++  Day 35 - Keys, Authentication & Environment Variables: Send SMS
+
 
 
 Upcoming
-+  Day 34 - API Practice - Creating a GUI Quiz App
-+  Day 35 - Keys, Authentication & Environment Variables: Send SMS
 +  Day 36 - Stock Trading News Alert Project
 +  Day 37 - Habit Tracking Project: API Post Requests & Headers
 +  Day 38 - Workout Tracking Using Google Sheets
