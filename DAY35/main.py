@@ -1,15 +1,19 @@
-# weather api request - DAY 35
+# DAY 35 - Rain Alert (weather api request)
 
 # packages
 import requests
 from dotenv import load_dotenv
 import os
+import smtplib
 
 # getting secret keys from env file
 load_dotenv()
 
 # environment variables
 API_KEY = os.getenv("API_KEY")
+TEST_EMAIL = os.getenv("GMAIL_TEST")
+PASSWORD = os.getenv("GMAIL_TEST_PASS")
+TO_EMAIL = os.getenv("TO_EMAIL")
 
 # ENDPOINT & PARAMETERS
 OWM_ENDPOINT = "https://api.openweathermap.org/data/2.5/weather?"
@@ -33,6 +37,23 @@ if weather_data['weather'][0]['id'] < 700:
 
 # confirm if we should bring an umbrella
 if will_rain_today:
-    print('Bring an umbrella! =(')
+    body = 'Looking at the weather today: bring an umbrella! =('
 else:
-    print('Enjoy the weather!!')
+    body = 'Looking at the weather today: Enjoy the weather'
+
+
+# Connect and Send Quote
+    with smtplib.SMTP("smtp.gmail.com", port=587) as connection:
+        # a way of securing our connection
+        connection.starttls()
+        # login
+        connection.login(user=TEST_EMAIL, password=PASSWORD)
+
+        # Body of message
+        body = f"Subject: Today's Weather Forecast \n\n This is your daily reminder! {body}."
+
+        # Sending message
+        connection.sendmail(
+            from_addr=TEST_EMAIL,
+            to_addrs=TO_EMAIL,
+            msg=body)
