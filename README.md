@@ -49,22 +49,23 @@
     + Project: [U.S. State Game](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY25/PROJECT-US-state-game)
 + [Day 26](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY26) - List Comprehension and the Nato Alphabet
    + Project: [Nato Alphabet](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY26/PROJECT-NATO-alphabet)
-+  [Day 27](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY27) - Tkinter, *args, **kwargs and Creating GUI Programs
++ [Day 27](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY27) - Tkinter, *args, **kwargs and Creating GUI Programs
    + Project: [Mile to Kilometer Converter](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY27/PROJECT-mile-to-km-converter)
-+  [Day 28](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY28) - Tkinter, Dynamic Typing and the Pomodoro GUI Application
++ [Day 28](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY28) - Tkinter, Dynamic Typing and the Pomodoro GUI Application
    + Project: [Pomodoro GUI Application](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY28/PROJECT-pomodoro-gui-application)
-+  [Day 29](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY29) - Building a Password Manager GUI App with Tkinter
++ [Day 29](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY29) - Building a Password Manager GUI App with Tkinter
    + Project: [Password Manager GUI](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY29/PROJECT-password-manager)
-+  [Day 30](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY30) - Errors, Exceptions and JSON Data: Improving the Password Manager
-+  [Day 31](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY31) - Flash Card App Capstone Project
++ [Day 30](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY30) - Errors, Exceptions and JSON Data: Improving the Password Manager
++ [Day 31](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY31) - Flash Card App Capstone Project
    + Project: [Flash Card App](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY31/PROJECT-flash-card-app)
-+  [Day 32](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY32) - Send Email (smtplib) & Manage Dates (datetime)
++ [Day 32](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY32) - Send Email (smtplib) & Manage Dates (datetime)
     + Project: [Birthday Wisher](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY32/PROJECT-birthday-wisher)
-+  [Day 33](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY33) - API Endpoints & API Parameters
++ [Day 33](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY33) - API Endpoints & API Parameters
    + Project: [ISS Overhead Notifier](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY33/iss-overhead-notifier)
-+  [Day 34](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY34) - API Practice - Creating a GUI Quiz App
++ [Day 34](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY34) - API Practice - Creating a GUI Quiz App
     + Project: [Quiz App](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY34/PROJECT-quiz-app)
-+  Day 35 - Keys, Authentication & Environment Variables: Send SMS
++ [Day 35](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY35) - Keys, Authentication & Environment Variables: Send SMS
+  + Project:
 
 
 
