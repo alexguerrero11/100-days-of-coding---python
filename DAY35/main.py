@@ -1,6 +1,6 @@
 # DAY 35 - Rain Alert (weather api request)
 
-# packages
+# import packages
 import requests
 from dotenv import load_dotenv
 import os
