@@ -44,7 +44,7 @@ current_date_time = datetime.now()
 # Calculate the difference
 # Format the date as a string
 yesterday = (current_date_time - timedelta(days=1)).strftime("%Y-%m-%d")
-day_before_yesterday = (current_date_time - timedelta(days=2)).strftime("%Y-%m-%d")
+day_before_yesterday = (current_date_time - timedelta(days=1)).strftime("%Y-%m-%d")
 
 # Extract yesterdays closing stock price
 yesterday_closing = [value['4. close'] for date, value in data['Time Series (Daily)'].items() if date ==
@@ -102,10 +102,9 @@ for article in sliced_news_data:
     print(article['title'])
     print(article['description'])
 
-    for _ in article:
-        print(_)
 
 # TODO 9. - Send each article as a separate message via Twilio.
+
 
 
 # Optional TODO: Format the message like this:
