@@ -70,10 +70,12 @@
   + Project: Stock Trading News Alert
 + [Day 37](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY37) - Habit Tracking Project: API Post Requests & Headers
   + Project: Habit Tracking
+  + [Pixela Dashboard](https://pixe.la/v1/users/alexg11/graphs/graph1.html)
++ [Day 38](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY38) - Workout Tracking Using Google Sheets
+  + Project: 
 
   
 Upcoming
-+  Day 38 - Workout Tracking Using Google Sheets
 +  Day 39 - Capstone Part 1: Flight Deal Finder
 +  Day 40 - Capstone Part 2: Flight Club
 
