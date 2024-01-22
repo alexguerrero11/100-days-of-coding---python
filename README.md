@@ -65,13 +65,14 @@
 + [Day 34](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY34) - API Practice - Creating a GUI Quiz App
     + Project: [Quiz App](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY34/PROJECT-quiz-app)
 + [Day 35](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY35) - Keys, Authentication & Environment Variables: Send SMS
-  + Project:
+  + Project: Rain Alert
++ [Day 36](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY36) - Stock Trading News Alert Project
+  + Project: Stock Trading News Alert
++ [Day 37](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY37) - Habit Tracking Project: API Post Requests & Headers
+  + Project: Habit Tracking
 
-
-
+  
 Upcoming
-+  Day 36 - Stock Trading News Alert Project
-+  Day 37 - Habit Tracking Project: API Post Requests & Headers
 +  Day 38 - Workout Tracking Using Google Sheets
 +  Day 39 - Capstone Part 1: Flight Deal Finder
 +  Day 40 - Capstone Part 2: Flight Club
