@@ -72,11 +72,9 @@
   + Project: Habit Tracking
   + [Pixela Dashboard](https://pixe.la/v1/users/alexg11/graphs/graph1.html)
 + [Day 38](https://github.com/alexguerrero11/100-days-of-coding-python/tree/main/DAY38) - Workout Tracking Using Google Sheets
-  + Project: 
-
++  Day 39 - Capstone Part 1: Flight Deal Finder
   
 Upcoming
-+  Day 39 - Capstone Part 1: Flight Deal Finder
 +  Day 40 - Capstone Part 2: Flight Club
 
 # Tools
